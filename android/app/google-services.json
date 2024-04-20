@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283785871498",
+    "project_id": "registerscreen-flutter-project",
+    "storage_bucket": "registerscreen-flutter-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283785871498:android:dc784d504485fc3e25ad73",
+        "android_client_info": {
+          "package_name": "com.example.crud_note_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhvC_D5MpgG_40FLHGK61tbDF9Rv7tUPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
